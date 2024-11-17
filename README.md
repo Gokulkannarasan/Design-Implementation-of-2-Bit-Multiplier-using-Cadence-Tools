@@ -1,4 +1,4 @@
-# Exp No:6 Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
+# Exp No:6 Design Implementation of 2 Bit Multiplier using Cadence Tools
   
 
 ## Aim:
